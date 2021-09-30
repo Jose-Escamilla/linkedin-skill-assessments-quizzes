@@ -567,3 +567,10 @@
 - [ ] Select the block and change it in the Properties palette.
 - [ ] Change the GRIPBLOCK system variable to 0.
 - [ ] Select the block and change it in the right-click shortcut menu.
+
+#### Q77. You can make a global linetype scale change by typing "LTSCALE" and pressing Enter (Windows) or Return (Mac) The default value for LTSCALE is
+1. What does this represent?
+- [ ] 1%.
+- [ ] 100%.
+- [x] LTSCALE ON (1).
+- [ ] LTSCALE ON (1).
